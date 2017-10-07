@@ -17,9 +17,9 @@ int main(int argc, char** argv){
 	int x = 1,y =2;
 	
 	fprintf(stdout, "Testing process X ... \n");
-	debug("Computing result of x + y : %d | %s | %s | %d \n" , x+ y, "Ionesio" , "LSD" , 358 );
+	debug("Computing result of x + y : %d | %s | %s | %d \n" , x+ y, "Test1" , "TST3" , 358 );
 	
 	fprintf(stdout,"Testing process Y ... \n");
-	debug("Computing result of x - y: %d | %s | %s \n" , x - y , "Robert" , "BATATA");
+	debug("Computing result of x - y: %d | %s | %s \n" , x - y , "Another word" , "TST");
 	return 0;
 }
