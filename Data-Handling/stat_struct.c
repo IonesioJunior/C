@@ -1,3 +1,6 @@
+/* stat_struct : Example to show type of file using Unix system stat structure
+*  Ionesio Junior
+*/
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
