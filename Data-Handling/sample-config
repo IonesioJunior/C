@@ -1,0 +1,8 @@
+language=ANSI C
+compiler =gcc
+parser= for(), feof() and fgets()
+editor = vi
+os version=Linux 2.6.14 SMP
+programmer name = Alexandre Fiori
+programmer home = /home/fiorix
+programmer uuid = 1000
