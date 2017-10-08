@@ -1,3 +1,6 @@
+/* simple_parser.c : Example of simple parser in some config text
+*  Ionesio Junior
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
